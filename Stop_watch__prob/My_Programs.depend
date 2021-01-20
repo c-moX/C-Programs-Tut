@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1599883891 source:c:\users\simox\onedrive\desktop\my_programs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1600086316 source:c:\users\simox\onedrive\desktop\c_programs\main.c
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+
+1600170853 source:c:\users\simox\onedrive\desktop\c_programs\stop_watch\main.c
+	<stdio.h>
+	<unistd.h>
+
+1600170854 source:c:\users\simox\onedrive\desktop\c_program_tut\stop_watch__prob\main.c
+	<stdio.h>
+	<unistd.h>
+
